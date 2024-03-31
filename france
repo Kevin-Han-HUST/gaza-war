@@ -1,0 +1,5 @@
+select 
+* 
+from  
+a  join b
+on 
